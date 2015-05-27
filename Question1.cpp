@@ -15,10 +15,10 @@ using namespace std;
 int main(int argc, char *argv[]) {
 
 	// 1.1 on branch "master", uncomment the following line and make a commit
-	// cout << "This is the first line of code" << endl;
+	 cout << "This is the first line of code" << endl;
 
 	// 1.2 create and switch to branch "hello", uncomment (and complete) the following line and make a commit  
-	// cout << "Hello, my name is ___________." << endl;
+	 cout << "Hello, my name is ___________." << endl;
 
 	// 1.3 switch to the "master" branch, uncomment the following four lines and make a commit
 	// string name;
